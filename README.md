@@ -1,7 +1,8 @@
 ## 👋 Hi, I'm Gesell!
 
-**🎓 Senior at The University of Illinois Chicago, studying Data Science
-🔭 Aspiring Data Scientist**
+**🎓 Senior at The University of Illinois Chicago, studying Data Science**
+
+**🔭 Aspiring Data Scientist**
 
 I have always enjoyed statistics, as it clicked for me in high school, and I have always been fascinated by how coding can bring ideas to life. What better fit than Data Science to apply both statistics and coding to data! I have grown through my  continuous learning about Data Science, and I will continue to do so. Currently, I am deep-diving into Machine Learning and all it offers. I am excited to extract insights using different machine learning techniques.
 
