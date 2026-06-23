@@ -10,8 +10,13 @@ Statistics clicked for me in high school, and I've always been fascinated by how
 <img width="200" align="left" hspace="20" alt="unnamed" src="https://github.com/user-attachments/assets/42e7e745-6198-407f-a94d-b2a63218e9bd" /> I am currently part of the Break Through Tech AI Program, where I am learning Machine Learning concepts and techniques. I am excited to extract insights using different machine learning techniques to provide meaningful information that can drive business decisions. By the end of the year, I will have worked with a sponsoring company to put my skills to use and further my professional growth. 
 <br clear="all" />
 
-<!-- ### 🎯 Featured Project: 
--->
+## 🎯 Featured Project: Sleep Duration Project
+
+Using statistical and machine learning techniques, in my group project, we were able to answer the following questions: Which predictors are significant in explaining sleep duration? Which models will help us best predict sleep duration?
+- **Tools**: R, RStudio
+- **Key Techniques:** Ensemble Learning (Bagging), Hyperparameter Tuning (Tuned SVM), Regularization (Ridge/Lasso), Dimensionality Reduction (PCR/PLS)
+  
+Curious about the results? Feel free to read all about it! [Sleep Duration Project](https://github.com/ggesell17/Sleep-Duration-Project/tree/main)
 
 ## 🛠 Tech Stack:
 - **Languages**: Python, R, SAS, C, C++
@@ -32,13 +37,6 @@ Using p5.js, I created a fan site with a 3D WEBGL bubble gallery, a visual-novel
     
 If you're curious, feel free to learn more about it! [Fiona Fan Site](https://github.com/ggesell17/Fiona-Fan-Site/tree/main)
 <br clear="all" />
-
-### 📊 Sleep Duration Project
-Using statistical and machine learning techniques, in my group project, we were able to answer the following questions: Which predictors are significant in explaining sleep duration? Which models will help us best predict sleep duration?
-- **Tools**: R, RStudio
-- **Key Techniques:** Ensemble Learning (Bagging), Hyperparameter Tuning (Tuned SVM), Regularization (Ridge/Lasso), Dimensionality Reduction (PCR/PLS)
-  
-Curious about the results? Feel free to read all about it! [Sleep Duration Project](https://github.com/ggesell17/Sleep-Duration-Project/tree/main)
 
 ## 📊 GitHub Stats: 
 [![Gesell's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggesell17&show_icons=true&theme=tokyonight)](https://github.com/ggesell17/github-readme-stats)
