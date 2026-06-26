@@ -19,17 +19,18 @@ Using statistical and machine learning techniques, in my group project, we were 
 Curious about the results? Feel free to read all about it! [Sleep Duration Project](https://github.com/ggesell17/Sleep-Duration-Project/tree/main)
 
 ## 🛠 Tech Stack:
+<img align="right" width="300" hspace="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggesell17&layout=compact" />
+
 - **Languages**: Python, R, SAS, C, C++
 - **Data Science**: Pandas, Numpy, scikit-learn
 - **Web Dev**: JavaScript, HTML, CSS, p5.js
 - **Tools**: Jupyter Notebooks, GitHub, PyCharm, RStudio
 - **Databases**: SQL, MySQL
-
-## 🚀 Projects
-
-<img width="300" align="right" hspace="20" alt="Fiona1" src="https://github.com/user-attachments/assets/17ebeebb-5e3f-440c-b497-352e1c9621cf" />
+<br clear="all" />
 
 ### 🐕 Fiona Fan Site   
+
+<img width="300" align="right" hspace="20" alt="Fiona1" src="https://github.com/user-attachments/assets/17ebeebb-5e3f-440c-b497-352e1c9621cf" />
 
 Using p5.js, I created a fan site with a 3D WEBGL bubble gallery, a visual-novel style narrative game, and an About Fiona page — all within one month as a class final project. This project brought together everything the p5.js library offers: animation, game creation, and working in 3D space.
   - **Tools**: GitHub, p5.js
