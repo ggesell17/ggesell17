@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gesell!
 
-**🎓 Senior at The University of Illinois Chicago, studying Data Science**
+**🎓 Senior at the University of Illinois Chicago, studying Data Science**
 
 **🔭 Aspiring Data Scientist**
 
@@ -19,32 +19,30 @@ Using statistical and machine learning techniques, in my group project, we were 
 Curious about the results? Feel free to read all about it! [Sleep Duration Project](https://github.com/ggesell17/Sleep-Duration-Project/tree/main)
 
 ## 🛠 Tech Stack:
-<img align="right" width="300" hspace="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggesell17&layout=compact" />
-
+<!-- <img align="right" width="300" hspace="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggesell17&layout=compact" /> -->
 - **Languages**: Python, R, SAS, C, C++
 - **Data Science**: Pandas, Numpy, scikit-learn
 - **Web Dev**: JavaScript, HTML, CSS, p5.js
 - **Tools**: Jupyter Notebooks, GitHub, PyCharm, RStudio
 - **Databases**: SQL, MySQL
-<br clear="all" />
+<!-- <br clear="all" /> -->
 
-### 🐕 Fiona Fan Site   
+## Relevant Projects
+### 📏 Predicting Pokemon Heights
 
-<img width="300" align="right" hspace="20" alt="Fiona1" src="https://github.com/user-attachments/assets/17ebeebb-5e3f-440c-b497-352e1c9621cf" />
+Using multiple linear regression, I was able to answer the following questions: Which predictors (e.g., weight, base stats, 
+type) best explain Pokémon height? Which model produces the most accurate height predictions?
+- **Tools**: R, RStudio
+- **Key Techniques:** Multiple Linear Regression, Variable Selection (Forward/Backward/Stepwise), Multicollinearity Diagnostics (VIF), Residual Analysis, Cross-Validation
+  
+Curious about the results? Feel free to read all about it! [Pokemon Heights Prediction Project](https://github.com/ggesell17/Predicting-Pokemon-Heights-Project)
 
-Using p5.js, I created a fan site with a 3D WEBGL bubble gallery, a visual-novel style narrative game, and an About Fiona page — all within one month as a class final project. This project brought together everything the p5.js library offers: animation, game creation, and working in 3D space.
-  - **Tools**: GitHub, p5.js
-  - **Learnings**: Building a 3D space with models, a multi-scene narrative game with WASD movement, and front-end development
-    
-If you're curious, feel free to learn more about it! [Fiona Fan Site](https://github.com/ggesell17/Fiona-Fan-Site/tree/main)
-<br clear="all" />
-
-## 📊 GitHub Stats: 
-[![Gesell's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggesell17&show_icons=true&theme=tokyonight)](https://github.com/ggesell17/github-readme-stats)
+<!-- ## 📊 GitHub Stats: 
+[![Gesell's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggesell17&show_icons=true&theme=tokyonight)](https://github.com/ggesell17/github-readme-stats) -->
 
 ## 📫 How to Reach Me
 - **Email**: ggesell6@gmail.com
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/gesell-gonzalez/)
 
 ## ✨ Fun Fact:
-My Miniature Schnauzer/Shih Tzu dog, Fiona, is a lot of my inspiration to learn and grow, and sometimes even part of my projects. I'll often be working, and she'll be right there with me to remind me of breaks or give me an epiphany of how to tackle a problem I am having.
+My Miniature Schnauzer/Shih Tzu dog, Fiona, is a lot of my inspiration to learn and grow, and sometimes even part of my projects. I'll often be working, and she'll be right there with me to remind me to take breaks or give me an epiphany on how to tackle a problem I am having.
