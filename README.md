@@ -10,13 +10,14 @@ Statistics clicked for me in high school, and I've always been fascinated by how
 <img width="200" align="left" hspace="20" alt="unnamed" src="https://github.com/user-attachments/assets/42e7e745-6198-407f-a94d-b2a63218e9bd" /> I am currently part of the Break Through Tech AI Program, where I am learning Machine Learning concepts and techniques. I am excited to extract insights using different machine learning techniques to provide meaningful information that can drive business decisions. By the end of the year, I will have worked with a sponsoring company to put my skills to use and further my professional growth. 
 <br clear="all" />
 
-## 🎯 Featured Project: Sleep Duration Project
+## 🎯 Featured Project: Dynamic Nutrition Orchestrator
+Working with a team through Break Through Tech AI Studio, we are developing an AI-powered nutrition system that generates personalized, high-protein Indian vegetarian meal plans while meeting strict nutritional and dietary constraints. How can AI agents dynamically create meal plans based on a user's nutritional goals? How can we ensure accurate nutrient calculations while minimizing LLM hallucinations?
 
-Using statistical and machine learning techniques, in my group project, we were able to answer the following questions: Which predictors are significant in explaining sleep duration? Which models will help us best predict sleep duration?
-- **Tools**: R, RStudio
-- **Key Techniques:** Ensemble Learning (Bagging), Hyperparameter Tuning (Tuned SVM), Regularization (Ridge/Lasso), Dimensionality Reduction (PCR/PLS)
-  
-Curious about the results? Feel free to read all about it! [Sleep Duration Project](https://github.com/ggesell17/Sleep-Duration-Project/tree/main)
+Tools: Python, Ollama, USDA FoodData Central API, Pydantic, Git/GitHub
+
+Key Techniques: Multi-Agent AI Systems, Tool-Augmented Generation (TAG), LLM Tool Calling, API Integration, Prompt Engineering, Constraint Optimization, Entity Resolution
+
+Curious about the project? Feel free to check it out! [Dynamic Nutrition Orchestrator Project](https://github.com/Break-Through-Tech/Nutrition-1B-dynamic-nutrition-orchestrator/blob/main/README.md) 
 
 ## 🛠 Tech Stack:
 <!-- <img align="right" width="300" hspace="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggesell17&layout=compact" /> -->
@@ -28,14 +29,21 @@ Curious about the results? Feel free to read all about it! [Sleep Duration Proje
 <!-- <br clear="all" /> -->
 
 ## Relevant Projects
-### 📏 Predicting Pokemon Heights
+### 📏 Predicting Pokémon Heights
 
 Using multiple linear regression, I was able to answer the following questions: Which predictors (e.g., weight, base stats, 
 type) best explain Pokémon height? Which model produces the most accurate height predictions?
 - **Tools**: R, RStudio
 - **Key Techniques:** Multiple Linear Regression, Variable Selection (Forward/Backward/Stepwise), Multicollinearity Diagnostics (VIF), Residual Analysis, Cross-Validation
-  
+
 Curious about the results? Feel free to read all about it! [Pokemon Heights Prediction Project](https://github.com/ggesell17/Predicting-Pokemon-Heights-Project)
+
+### Sleep Duration Project
+Using statistical and machine learning techniques, in my group project, we were able to answer the following questions: Which predictors are significant in explaining sleep duration? Which models will help us best predict sleep duration?
+- **Tools**: R, RStudio
+- **Key Techniques:** Ensemble Learning (Bagging), Hyperparameter Tuning (Tuned SVM), Regularization (Ridge/Lasso), Dimensionality Reduction (PCR/PLS)
+
+Curious about the results? Feel free to read all about it! [Sleep Duration Project](https://github.com/ggesell17/Sleep-Duration-Project/tree/main)
 
 <!-- ## 📊 GitHub Stats: 
 [![Gesell's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggesell17&show_icons=true&theme=tokyonight)](https://github.com/ggesell17/github-readme-stats) -->
