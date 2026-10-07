@@ -15,10 +15,8 @@ Statistics clicked for me in high school, and I've always been fascinated by how
 
 ## 🎯 Featured Project: Dynamic Nutrition Orchestrator
 Working with a team through Break Through Tech AI Studio, we are developing an AI-powered nutrition system that generates personalized, high-protein Indian vegetarian meal plans while meeting strict nutritional and dietary constraints. How can AI agents dynamically create meal plans based on a user's nutritional goals? How can we ensure accurate nutrient calculations while minimizing LLM hallucinations?
-
-Tools: Python, Ollama, USDA FoodData Central API, Pydantic, Git/GitHub
-
-Key Techniques: Multi-Agent AI Systems, Tool-Augmented Generation (TAG), LLM Tool Calling, API Integration, Prompt Engineering, Constraint Optimization, Entity Resolution
+- **Tools**: Python, Ollama, USDA FoodData Central API, Pydantic, Git/GitHub
+- **Key Techniques**: Multi-Agent AI Systems, Tool-Augmented Generation (TAG), LLM Tool Calling, API Integration, Prompt Engineering, Constraint Optimization, Entity Resolution
 
 Curious about the project? Feel free to check it out! [Dynamic Nutrition Orchestrator Project](https://github.com/Break-Through-Tech/Nutrition-1B-dynamic-nutrition-orchestrator/blob/main/README.md) 
 
