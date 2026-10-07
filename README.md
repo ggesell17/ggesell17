@@ -4,10 +4,10 @@
 
 **🔭 Aspiring Data Scientist**
 
-Statistics clicked for me in high school, and I've always been fascinated by how coding can bring ideas to life. What better fit than Data Science to apply both statistics and coding to data! I have grown through my  continuous learning about Data Science, and I will continue to do so. I am interested in pursuing a job in Machine Learning and continuously growing my skill set.
+Statistics clicked for me in high school, and I've always been fascinated by how coding can bring ideas to life. What better fit than Data Science to apply both statistics and coding to data! I have grown through my continuous learning about Data Science, and I will continue to do so. I am interested in pursuing a job in Machine Learning and continuously growing my skill set.
 
 ## ✏️ What I'm learning
-<img width="200" align="left" hspace="20" alt="unnamed" src="https://github.com/user-attachments/assets/42e7e745-6198-407f-a94d-b2a63218e9bd" /> I am currently part of the Break Through Tech AI Program, where I am learning Machine Learning concepts and techniques. I am excited to extract insights using different machine learning techniques to provide meaningful information that can drive business decisions. By the end of the year, I will have worked with a sponsoring company to put my skills to use and further my professional growth. 
+<img width="200" align="left" hspace="20" alt="unnamed" src="https://github.com/user-attachments/assets/42e7e745-6198-407f-a94d-b2a63218e9bd" /> I am currently part of the Break Through Tech AI Program, where I am learning Machine Learning concepts and techniques. I am excited to extract insights using different machine learning techniques to provide meaningful information that can drive business decisions. Currently, with my groupmates and sponsor, we are developing a Dynamic Nutrition Orchestrator. By the end of the year, we will have completed our project.
 <br clear="all" />
 
 ## Certificate
