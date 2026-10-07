@@ -4,11 +4,14 @@
 
 **🔭 Aspiring Data Scientist**
 
-Statistics clicked for me in high school, and I've always been fascinated by how coding can bring ideas to life. What better fit than Data Science to apply both statistics and coding to data! I have grown through my  continuous learning about Data Science, and I will continue to do so. Currently, I am deep-diving into Machine Learning and all it offers. 
+Statistics clicked for me in high school, and I've always been fascinated by how coding can bring ideas to life. What better fit than Data Science to apply both statistics and coding to data! I have grown through my  continuous learning about Data Science, and I will continue to do so. I am interested in pursuing a job in Machine Learning and continuously growing my skill set.
 
 ## ✏️ What I'm learning
 <img width="200" align="left" hspace="20" alt="unnamed" src="https://github.com/user-attachments/assets/42e7e745-6198-407f-a94d-b2a63218e9bd" /> I am currently part of the Break Through Tech AI Program, where I am learning Machine Learning concepts and techniques. I am excited to extract insights using different machine learning techniques to provide meaningful information that can drive business decisions. By the end of the year, I will have worked with a sponsoring company to put my skills to use and further my professional growth. 
 <br clear="all" />
+
+## Certificate
+[Machine Learning Foundation](https://mycredentials.ecornell.cornell.edu/credential/WxyvciawKI)
 
 ## 🎯 Featured Project: Dynamic Nutrition Orchestrator
 Working with a team through Break Through Tech AI Studio, we are developing an AI-powered nutrition system that generates personalized, high-protein Indian vegetarian meal plans while meeting strict nutritional and dietary constraints. How can AI agents dynamically create meal plans based on a user's nutritional goals? How can we ensure accurate nutrient calculations while minimizing LLM hallucinations?
@@ -45,8 +48,8 @@ Using statistical and machine learning techniques, in my group project, we were 
 
 Curious about the results? Feel free to read all about it! [Sleep Duration Project](https://github.com/ggesell17/Sleep-Duration-Project/tree/main)
 
-<!-- ## 📊 GitHub Stats: 
-[![Gesell's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggesell17&show_icons=true&theme=tokyonight)](https://github.com/ggesell17/github-readme-stats) -->
+## 📊 GitHub Stats: 
+[![Gesell's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggesell17&show_icons=true&theme=tokyonight)](https://github.com/ggesell17/github-readme-stats)
 
 ## 📫 How to Reach Me
 - **Email**: ggesell6@gmail.com
